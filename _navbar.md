@@ -1,0 +1,4 @@
+- [Home](/) <!-- Link to home -->
+- [GitHub](https://github.com/your-repo-link) <!-- Link to your GitHub repo -->
+- [English](/) <!-- Language selector -->
+- [简体中文](/zh-cn/) <!-- Link to Chinese version (if available) -->

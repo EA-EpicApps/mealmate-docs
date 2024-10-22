@@ -1,0 +1,13 @@
+/* Reduce the left padding of the main content */
+.sidebar-nav h4 {
+  padding-left: 15px; /* Adjust this value to control the padding */
+}
+.sidebar-nav ul {
+  padding-left: 10px;
+}
+
+/* Adjust overall width to accommodate for the right-side TOC */
+.app {
+  max-width: 1200px; /* You can adjust this to fit your design */
+  margin: 0 auto;
+}
