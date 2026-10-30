@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/MealMate_Logo.png" alt="Logo" width="80px" style="border-radius:10px">
+  <img src="Images/Mealmate_Logo.png" alt="Logo" width="80px" style="border-radius:10px">
 </p>
 
 - [Home](README.md)

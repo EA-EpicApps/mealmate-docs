@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to MealMate, your restaurant management platform.
+Welcome to Mealmate, your restaurant management platform.
 
 ## Key Features
 
@@ -17,4 +17,4 @@ Detailed description of sub-feature 2.
 
 ## Getting Started
 
-Steps to start using MealMate.
+Steps to start using Mealmate.
